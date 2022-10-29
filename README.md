@@ -1,6 +1,6 @@
 # winDBGtheme
 Dark theme for windbg that I prefer to use. 
-I've taken some of the color schemes from the brilliant Aura theme. (https://github.com/daltonmenezes/aura-theme)
+I've taken some of the color schemes from the brilliant Aura theme. (https://github.com/daltonmenezes/aura-theme, https://github.com/nextco/windbg-readable-theme)
 ### Install
 ```
 Import the registry key, it will replace any other workspace settings called Default.
